@@ -1,0 +1,13 @@
+.notfound-container{
+  justify-content: center;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  color: #00ab0e;
+  font-size: 30px;
+  font-weight: 800;
+  img{
+    width: 100px;
+  }
+}

@@ -1,0 +1,135 @@
+.calculator-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px 40px;
+  border-radius: 8px;
+  background: #8BC462;
+  border-radius: 0px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.state-selection {
+  display: flex;
+  select{
+    width: 300%;
+    option{
+      border: none;
+    }
+    option:hover{
+      line-height: 100px;
+      background: #8BC462;
+    }
+  }
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  span{
+    font-size: 12px;
+    font-weight: 500;
+    opacity: 0.5;
+    margin-left: 5px;
+  }
+}
+
+select,input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input[type="radio"] {
+  margin-right: 5px;
+}
+
+.reset-button {
+  width: 40%;
+  margin-left: 20px;
+  margin-top: 0px;
+  background-color: #218838;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+.reset-button:hover {
+  background-color: #28a745;
+}
+.error-message{
+  color: red;
+}
+.result-mileage{
+  text-align: center;
+  box-shadow: inset rgb(0, 0, 0) 0px 0px 25px -12px;
+  padding: 10px;
+  color: #000000;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: system-ui;
+  cursor: pointer;
+}
+.result-feedback{
+  text-align: center;
+  box-shadow: inset rgb(0, 0, 0) 0px 0px 25px -12px;
+  background: #ddd;
+  padding: 10px;
+  color: #000000;
+  border-radius: 10px;
+  width: 100%;
+  cursor: pointer;
+  white-space: pre;
+}
+.fuel-type{
+  display: flex;
+  margin-bottom: 10px;
+
+  input[type="radio"]{
+    accent-color: #8BC462;
+    cursor: pointer;
+  }
+
+  input{
+    width: 20px;
+  }
+
+  div{
+    display: flex;
+  }
+
+  label{
+    margin-bottom: 0px;
+    margin-right: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .fuel-type{
+    flex-direction: column;
+
+    .distance-options{
+      flex-direction: column;
+      margin-left: 30px;
+      
+      div{
+        margin-top: 5px;
+      }
+    }
+  }
+}

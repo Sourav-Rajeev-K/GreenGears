@@ -1,0 +1,24 @@
+.market-container {
+  padding: 40px;
+  margin: auto;
+}
+.fuel-price-table {
+  margin-top: 20px;
+  overflow-x: auto;
+}
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+
+th {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+span {
+  margin-left: 5px;
+  font-size: 0.8em;
+}

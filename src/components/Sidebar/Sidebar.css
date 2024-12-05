@@ -1,0 +1,136 @@
+.sidebar-container {
+  max-width: 1600px;
+  width: 100%;
+}
+
+.sidebar-sidecontainer {
+  background: #8bc462;
+  width: 230px;
+  height: 100vh;
+  position: fixed;
+  transition: transform 0.3s ease-in-out;
+}
+
+.sidebar-logo {
+  padding: 30px 25px;
+  font-weight: bold;
+  font-size: large;
+  display: flex;
+  justify-content: space-between;
+}
+
+main {
+  width: calc(100% - 230px);
+  margin-left: 230px;
+  min-height: 100vh;
+}
+
+.header {
+  background: #8bc462;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 40px;
+  margin-top: 17px;
+  filter: drop-shadow(5px 5px 5px #222);
+}
+
+.ham-icon {
+  display: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.menu-icons {
+  margin-right: 10px;
+  height: 20px;
+}
+
+.menu-item {
+  text-decoration: none;
+  display: block;
+  color: black;
+  position: relative;
+  overflow: hidden;
+}
+
+.menu-item div {
+  padding: 10px 25px;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  margin: 10px 0px;
+}
+
+.menu-item::before {
+  content: '';
+  position: absolute;
+  right: -100%;
+  width: 100%;
+  height: 100%;
+  background-color: #c6fba1;
+  transition: right 0.3s ease;
+  z-index: 0;
+}
+
+.menu-item:hover::before,
+.menu-item.active::before {
+  right: 0;
+}
+
+.menu-item.active div {
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .sidebar-sidecontainer {
+    transform: translateX(-100%);
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 16px rgba(17, 17, 26, 0.05), 0 8px 32px rgba(17, 17, 26, 0.05);
+  }
+
+  .sidebar-sidecontainer.open {
+    transform: translateX(0);
+  }
+
+  .sidebar-container {
+    display: block;
+  }
+
+  main {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .empty-div {
+    display: none;
+  }
+
+  .logo {
+    height: 30px;
+    margin-top: 0;
+  }
+
+  .ham-icon {
+    display: block;
+  }
+}
+
+@media (min-width: 769px) {
+  .sidebar-sidecontainer {
+    transform: translateX(0);
+  }
+
+  .empty-div {
+    display: block;
+  }
+
+  .ham-icon {
+    display: none;
+  }
+}

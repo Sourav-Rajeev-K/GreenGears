@@ -1,24 +1,33 @@
-import logo from './logo.svg';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
+import AppContextProvider from './context/AppContext';
+import Sidebar from './components/Sidebar/Sidebar';
+import Dashboard from './pages/Dashboard/Dashboard';
+import About from './pages/About/About';
+import Market from './pages/Market/Market';
+import Calculator from './pages/Calculator/Calculator';
+import Page404 from './pages/Page404/Page404';
+import { Navigate } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <AppContextProvider>
+      <div style={{display:'flex',justifyContent:'center'}}>
+        <BrowserRouter  basename="/greengears">
+          <Sidebar>
+            <Routes>
+              <Route path='/' exact="true" element={<Navigate to="/dashboard" replace />}/>
+              <Route path='/GreenGears' element={<Navigate to="/dashboard" replace />}/>
+              <Route path='/dashboard' element={<Dashboard/>}/>
+              <Route path='/about' element={<About/>}/>
+              <Route path='/market' element={<Market/>}/>
+              <Route path='/calculator' element={<Calculator/>}/>
+              <Route path='*' element={<Page404/>}/>
+            </Routes>
+          </Sidebar>
+        </BrowserRouter>
+      </div>
+    </AppContextProvider>
   );
 }
 
