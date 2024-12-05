@@ -66,7 +66,7 @@ const Dashboard = () => {
                     <p><strong>Petrol: </strong>{state.fuel.petrol.retailPrice} INR</p>
                     <p><strong>Unit: </strong>{state.fuel.petrol.retailUnit}</p>
                   </div>
-                  <img src="/icons/petrol.png" alt="petrol" />
+                  <img src={`${process.env.PUBLIC_URL}/icons/petrol.png`} alt="petrol" />
                 </div>
                 <div className="updated-date">Updated on:{new Date(state.applicableOn).toLocaleDateString("en-US", {
                   month: "short",
@@ -82,7 +82,7 @@ const Dashboard = () => {
                     <p><strong>Diesel: </strong>{state.fuel.diesel.retailPrice} INR</p>
                     <p><strong>Unit: </strong>{state.fuel.diesel.retailUnit}</p>
                   </div>
-                  <img src="/icons/diesel.png" alt="diesel" />
+                  <img src={`${process.env.PUBLIC_URL}/icons/diesel.png`} alt="diesel" />
                 </div>
                 <div className="updated-date">Updated on: {new Date(state.applicableOn).toLocaleDateString("en-US", {
                   month: "short",
@@ -98,7 +98,7 @@ const Dashboard = () => {
                     <p><strong>LPG: </strong>{state.fuel.lpg.retailPrice} INR</p>
                     <p><strong>Unit: </strong>{state.fuel.lpg.retailUnit}</p>
                   </div>
-                  <img src="/icons/lpg.png" alt="lpg" />
+                  <img src={`${process.env.PUBLIC_URL}/icons/lpg.png`} alt="lpg" />
                 </div>
                 <div className="updated-date">Updated on: {new Date(state.applicableOn).toLocaleDateString("en-US", {
                   month: "short",
@@ -114,7 +114,7 @@ const Dashboard = () => {
                     <p><strong>CNG: </strong>{state.fuel.cng.retailPrice} INR</p>
                     <p><strong>Unit: </strong>{state.fuel.cng?.retailUnit}</p>
                   </div>
-                  <img src="/icons/cng.png" alt="cng" />
+                  <img src={`${process.env.PUBLIC_URL}/icons/cng.png`} alt="cng" />
                 </div>
                 <div className="updated-date">Updated on: {new Date(state.applicableOn).toLocaleDateString("en-US", {
                   month: "short",
