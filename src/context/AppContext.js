@@ -33,7 +33,7 @@ const AppContextProvider = ({ children }) => {
 	  
     } catch (error) {
 	  /* 	added hard coded data ifs api fails */
-	  const response = await fetch('/fueldata.txt');  
+	  const response = await fetch(`${process.env.PUBLIC_URL}/fueldata.txt`);  
 	  const text = await response.text();
 	  setData(JSON.parse(text));
       console.error('Error fetching data:', error);
