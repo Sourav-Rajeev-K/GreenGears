@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greengears/static/css/main.cd80445b.css",
+    "main.js": "/greengears/static/js/main.b342bb4e.js",
+    "index.html": "/greengears/index.html",
+    "main.cd80445b.css.map": "/greengears/static/css/main.cd80445b.css.map",
+    "main.b342bb4e.js.map": "/greengears/static/js/main.b342bb4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd80445b.css",
+    "static/js/main.b342bb4e.js"
+  ]
+}

@@ -1,0 +1,1098 @@
+{
+		"countryId": "india",
+		"countryName": "India",
+		"statePrices": [
+			{
+				"stateId": "andaman-and-nicobar-islands",
+				"stateName": "Andaman and Nicobar Islands",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 82.42,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 78.01,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 879,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "andhra-pradesh",
+				"stateName": "Andhra Pradesh",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 101.97,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 90.64,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 12.67,
+						"retailPriceChange": 1.42,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 754.13,
+						"retailPriceChange": -22.8,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "arunachal-pradesh",
+				"stateName": "Arunachal Pradesh",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 90.82,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 80.34,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 868.5,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "assam",
+				"stateName": "Assam",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 96.62,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 88.87,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 848.9,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "bihar",
+				"stateName": "Bihar",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 106.15,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 92.94,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 894.43,
+						"retailPriceChange": -9.19,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "chandigarh",
+				"stateName": "Chandigarh",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 94.22,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 82.38,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 812.5,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "chhattisgarh",
+				"stateName": "Chhattisgarh",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 101.35,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 93.9,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 890.75,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "dadra-and-nagar-haveli",
+				"stateName": "Dadra and Nagar Haveli",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 92.38,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 87.87,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 917.5,
+						"retailPriceChange": -150,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "daman-and-diu",
+				"stateName": "Daman and Diu",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 92.49,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 87.98,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 658.5,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "delhi",
+				"stateName": "Delhi",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 94.81,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 87.7,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 17.69,
+						"retailPriceChange": -0.59,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 268.61,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "goa",
+				"stateName": "Goa",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 95.18,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 87.75,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 817,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "gujarat",
+				"stateName": "Gujarat",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 94.74,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 90.42,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 10.22,
+						"retailPriceChange": -0.22,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 818.61,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "haryana",
+				"stateName": "Haryana",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 95.26,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 88.09,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 4.35,
+						"retailPriceChange": 0.17,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 772.63,
+						"retailPriceChange": -0.08,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "himachal-pradesh",
+				"stateName": "Himachal Pradesh",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 94.29,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 86.57,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 855,
+						"retailPriceChange": -16.67,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "jammu-and-kashmir",
+				"stateName": "Jammu and Kashmir",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 98.28,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 84.03,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 903.73,
+						"retailPriceChange": -10.83,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "jharkhand",
+				"stateName": "Jharkhand",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 98.46,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 93.19,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 846.25,
+						"retailPriceChange": -9.03,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "karnataka",
+				"stateName": "Karnataka",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 100.26,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 86.28,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 3.11,
+						"retailPriceChange": 0,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 821.09,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "kerala",
+				"stateName": "Kerala",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 105.26,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 94.28,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 725.57,
+						"retailPriceChange": -24.14,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "madhya-pradesh",
+				"stateName": "Madhya Pradesh",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 107.3,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 92.64,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 5.68,
+						"retailPriceChange": -0.27,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 843.21,
+						"retailPriceChange": 2.27,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "maharashtra",
+				"stateName": "Maharashtra",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 103.98,
+						"retailPriceChange": -0.12,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 90.34,
+						"retailPriceChange": 0.03,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 18.7,
+						"retailPriceChange": -0.92,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 766.04,
+						"retailPriceChange": -13.97,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "manipur",
+				"stateName": "Manipur",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 99.17,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 85.22,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 954.5,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "meghalaya",
+				"stateName": "Meghalaya",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 96.09,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 86.96,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 869.88,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "mizoram",
+				"stateName": "Mizoram",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 93.68,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 80.3,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 955,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "nagaland",
+				"stateName": "Nagaland",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 96.76,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 85.1,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 821.75,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "odisha",
+				"stateName": "Odisha",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 102.48,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 94.01,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 793.12,
+						"retailPriceChange": -7.74,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "pondicherry",
+				"stateName": "Pondicherry",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 94.19,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 84.41,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 815,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "puducherry",
+				"stateName": "Puducherry",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 94.4,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 84.45,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 832,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "punjab",
+				"stateName": "Punjab",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 96.59,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 86.85,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 4.38,
+						"retailPriceChange": -0.24,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 780.13,
+						"retailPriceChange": -10.97,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "rajasthan",
+				"stateName": "Rajasthan",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 105.59,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 90.99,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 5.79,
+						"retailPriceChange": -0.38,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 823.37,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "sikkim",
+				"stateName": "Sikkim",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 100.75,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 87.95,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 990.67,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "tamil-nadu",
+				"stateName": "Tamil Nadu",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 101.67,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 93.25,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 2.85,
+						"retailPriceChange": 0,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 817.23,
+						"retailPriceChange": 1.61,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "telangana",
+				"stateName": "Telangana",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 107.97,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 96.16,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 867.13,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "tripura",
+				"stateName": "Tripura",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 97.47,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 86.5,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 980.5,
+						"retailPriceChange": 17,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "uttar-pradesh",
+				"stateName": "Uttar Pradesh",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 93.5,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 86.58,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 11.41,
+						"retailPriceChange": -0.36,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 779.18,
+						"retailPriceChange": -8.42,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "uttarakhand",
+				"stateName": "Uttarakhand",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 93.57,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 88.39,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"lpg": {
+						"retailPrice": 831.21,
+						"retailPriceChange": 0,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			},
+			{
+				"stateId": "west-bengal",
+				"stateName": "West Bengal",
+				"applicableOn": "2024-11-30",
+				"fuel": {
+					"petrol": {
+						"retailPrice": 104.35,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"diesel": {
+						"retailPrice": 91.14,
+						"retailPriceChange": 0,
+						"retailUnit": "litre",
+						"currency": "INR",
+						"retailPriceChangeInterval": "day"
+					},
+					"cng": {
+						"retailPrice": 6,
+						"retailPriceChange": 0,
+						"retailUnit": "kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					},
+					"lpg": {
+						"retailPrice": 659.8,
+						"retailPriceChange": -10.83,
+						"retailUnit": "14.2kg",
+						"currency": "INR",
+						"retailPriceChangeInterval": "month"
+					}
+				}
+			}
+		]
+	}
