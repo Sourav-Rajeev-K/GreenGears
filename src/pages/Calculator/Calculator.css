@@ -101,7 +101,7 @@ input[type="radio"] {
   margin-bottom: 10px;
 
   input[type="radio"]{
-    accent-color: #8BC462;
+    accent-color: #000000;
     cursor: pointer;
   }
 

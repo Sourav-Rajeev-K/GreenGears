@@ -106,7 +106,7 @@ const AppContextProvider = ({ children }) => {
       {showPopup && !loading && <Popup message={popupMessage} onClose={() => setShowPopup(false)} />}
       {loading &&  (
         <div className="loading-overlay">
-          <img src="/loading.gif" alt="Loading..." />
+          <img  src={`${process.env.PUBLIC_URL}/loading.gif`} alt="Loading..." />
         </div>
       )}
     </AppContext.Provider>
