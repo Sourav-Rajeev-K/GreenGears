@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/greengears/static/css/main.6806c8c5.css",
-    "main.js": "/greengears/static/js/main.28cffed5.js",
+    "main.js": "/greengears/static/js/main.92eb15cc.js",
     "index.html": "/greengears/index.html",
     "main.6806c8c5.css.map": "/greengears/static/css/main.6806c8c5.css.map",
-    "main.28cffed5.js.map": "/greengears/static/js/main.28cffed5.js.map"
+    "main.92eb15cc.js.map": "/greengears/static/js/main.92eb15cc.js.map"
   },
   "entrypoints": [
     "static/css/main.6806c8c5.css",
-    "static/js/main.28cffed5.js"
+    "static/js/main.92eb15cc.js"
   ]
 }
