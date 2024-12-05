@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/greengears/static/css/main.cd80445b.css",
-    "main.js": "/greengears/static/js/main.b342bb4e.js",
-    "index.html": "/greengears/index.html",
-    "main.cd80445b.css.map": "/greengears/static/css/main.cd80445b.css.map",
-    "main.b342bb4e.js.map": "/greengears/static/js/main.b342bb4e.js.map"
+    "main.css": "/green-gears/static/css/main.cd80445b.css",
+    "main.js": "/green-gears/static/js/main.62c722be.js",
+    "index.html": "/green-gears/index.html",
+    "main.cd80445b.css.map": "/green-gears/static/css/main.cd80445b.css.map",
+    "main.62c722be.js.map": "/green-gears/static/js/main.62c722be.js.map"
   },
   "entrypoints": [
     "static/css/main.cd80445b.css",
-    "static/js/main.b342bb4e.js"
+    "static/js/main.62c722be.js"
   ]
 }
